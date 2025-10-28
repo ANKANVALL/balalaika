@@ -1,0 +1,16 @@
+{
+    "name": "pf372hsz/balaika",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Pf372hsz\\Balaika\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ANKANVALL",
+            "email": "luis.fregoso.reol.html@gmail.com"
+        }
+    ],
+    "require": {}
+}

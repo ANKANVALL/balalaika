@@ -1,0 +1,25 @@
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar dependencias
+node_modules/
+vendor/
+
+# Ignorar archivos de configuración
+.env
+config.php
+
+# Ignorar compilados o temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignorar carpetas de build o dist
+dist/
+build/
+
+# Ignorar IDEs
+.vscode/
+.idea/
